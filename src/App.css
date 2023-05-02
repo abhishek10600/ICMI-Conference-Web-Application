@@ -1,38 +1,80 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.about-div{
+  background-color: #211f1f;
+}
+.heading-color{
+  color:#e9d1a7;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.jumbotron{
+  background-color: #2a251e;
+  border:4px solid #473c38;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.main-color{
+  background-color: #211f1f;
 }
 
-.App-link {
-  color: #61dafb;
+.contribution-div{
+  background-color: rgb(121, 66, 66);
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.paper-submission-guidlines-div{
+  background-color: #211f1f;
+}
+.important-date-div{
+  background-color: rgb(121, 66, 66);
+}
+.date-table-color{
+  background-color: #473c38;
+}
+.contact-div{
+  background-color: #211f1f;
+}
+.footer-springer-logo{
+  height: 500px;
+}
+.chief-patron-div{
+  background-color: #211f1f;
+}
+.patron-div{
+  background-color: rgb(121, 66, 66);
+}
+.general-chairs-div{
+  background-color: #211f1f;
+}
+.program-chairs-div{
+  background-color: rgb(121, 66, 66);
+}
+.organizing-chairs-div{
+  background-color: #211f1f;
+}
+.program-co-chairs-div{
+  background-color: rgb(121, 66, 66);
+}
+.technical-chair-div{
+  background-color: #211f1f;
+}
+.women-in-engineering-chairs{
+  background-color: rgb(121, 66, 66);
+}
+.web-publicity-chairs{
+  background-color: #211f1f;
+}
+.finance-chairs{
+  background-color: rgb(121, 66, 66);
+}
+.footer{
+  background-color: #211f1f;
+}
+.card{
+  width:15rem;
+  height: 450px;
+}
+.cardImage{
+  width: 239px;
+  height: 320px;
 }
